@@ -1,18 +1,49 @@
-## Getting Started
+<h1>Java Final Exam</h1>
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
+<h2>Description</h2>
+Your application must demonstrate the following concepts:
 
-The workspace contains two folders by default, where:
+Inheritance
+Composition
+Polymorphism
+Abstract Classes
+Use of Constructors
+Use of Access Specifiers
+Text File Data Storage/Retrieval
+<br />
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+<h2>Languages and Utilities Used</h2>
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- <b>Java</b> 
+- <b>Visual Studio Code</b>
 
-## Dependency Management
+<h2>Environments Used </h2>
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- <b>Windows 11</b>
+
+<h2>Program walk-through:</h2>
+
+<p align="center">
+Iterative Printing: <br/>
+<img src="https://i.imgur.com/ifNXIjp.png" height="50%" width="50%" alt="Java final"/>
+<br />
+<br />
+
+<p align="center">
+Recursive Printing: <br/>
+<img src="https://i.imgur.com/tETw5Xm.png" height="50%" width="50%" alt="Java final"/>
+<br />
+<br />
+
+
+<!--
+ ```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+--!>
